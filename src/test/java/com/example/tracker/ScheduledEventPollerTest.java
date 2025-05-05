@@ -3,7 +3,7 @@
  * The code was reviewed and validated to ensure it aligns with the project's functionality.
  */
 
-package com.example.tracker.junit.tests;
+package com.example.tracker;
 import static org.mockito.Mockito.*;
 
 import org.junit.jupiter.api.BeforeAll;

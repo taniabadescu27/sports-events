@@ -10,7 +10,7 @@ import org.springframework.stereotype.Service;
 import com.example.tracker.model.Event;
 import com.example.tracker.model.Event.EventStatus;
 
-
+//Generated with the help of AI (ChatGPT) 
 @Service
 public class EventStatusService {
 	private final Map<String, Boolean> eventStatusMap = new ConcurrentHashMap<>();
@@ -21,7 +21,7 @@ public class EventStatusService {
         }
     }
 
-    // Generated with the help of AI (ChatGPT) to handle retry logic.
+   
     public List<Event> getLiveEvents() {
         return eventStatusMap.entrySet().stream()
                 .filter(entry -> entry.getValue())

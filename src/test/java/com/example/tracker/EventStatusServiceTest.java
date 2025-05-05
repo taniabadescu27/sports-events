@@ -1,4 +1,4 @@
-package com.example.tracker.junit.tests;
+package com.example.tracker;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertFalse;
