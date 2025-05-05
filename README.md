@@ -108,7 +108,7 @@ This will run all unit and integration tests in the junit.tests package.
 
 ## 🤖 AI-Assisted Parts
 
-- Some classes and methods (e.g., `EventPublishingService`, test templates) were initially generated using ChatGPT.
+- Some classes and methods (e.g. `EventPublishingService`, test templates) were initially generated using ChatGPT.
 
 - All AI-generated code was:
   - Reviewed for correctness and compliance with project structure.
